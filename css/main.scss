@@ -1247,7 +1247,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			color: _palette(fg-light);
 			background-color: _palette(bg);
 			h2 {
-				color: _palette(fg-bold);
+				color: _palette(h2-bold);
 			}
 		}
 
