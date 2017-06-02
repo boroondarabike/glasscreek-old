@@ -1244,6 +1244,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&.style2 {
+			color: _palette(fg-light)
 			background-color: _palette(bg);
 		}
 
